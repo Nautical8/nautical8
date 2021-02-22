@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nautical8&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nautical8&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nautical8&langs_count=4&theme=dark" />
 
 
 <!--
