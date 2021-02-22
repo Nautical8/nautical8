@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nautical8&theme=dark" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nautical8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=nautical8&hide=javascript&theme=dark" />
 
 <!--
 **Nautical8/nautical8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
