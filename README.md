@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nautical</h1>
-- 🔭 I’m currently working on [Spire AIO](https://github.com/spirebots)
+- 🔭 I’m currently working on Spire AIO https://github.com/spirebots
 
 
 <h3 align="left">Languages and Tools:</h3>
