@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nautical</h1>
+### Hi im, Nautical :wave:  
+  
 - 🔭 I’m currently working on Spire AIO https://github.com/spirebots
 
 
